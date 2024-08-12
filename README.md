@@ -1,2 +1,2 @@
 # Bricks-Game
-A simple 2d bricks game built using python and tkinter
+A simple 2d bricks game built using python and pygame
